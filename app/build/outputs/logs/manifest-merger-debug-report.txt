@@ -60,7 +60,7 @@ INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/A
 	xmlns:android
 		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
 		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:5:22-64
 application

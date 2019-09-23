@@ -1,4 +1,4 @@
-#Sun Sep 22 03:04:36 EDT 2019
+#Mon Sep 23 00:20:40 EDT 2019
 base.0=/Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
