@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3a454bd9c7f2fc41c0131fb644c059c3/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4127e940537288da9ea92022aa130e5f/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/d9288ad7e2a074fc83ef7e63a41f283e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/1fa0ca5a709a6bf5893d5b2c3d07e77a/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a0be31b30b7d55af0f8221419438c0dc/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/6aea9f334d12502781156a5042f89fc7/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4d63b2739f1e9213f8a7f57de03e70d2/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/9faacad67f32d839393fe46a7960a223/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e16a8e5675eadf650e1948a93cb0690d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/7822450f0d8d785d4ca1e1a2feb356e7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/6b2290a66739d319ca60c409ab0a295e/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/9094379f9a77ebc5855453371b2382d3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/68011662f42cb20a5320e9f7ab173535/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e27202486b513c4133c1d4176b287900/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/318cd0b0acb24d97c8ef87defbbb0d50/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/177cd6a7126f1a8a4f1d4d7f04b25933/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/600cc545667a35a5f9294790262df461/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/afe618922eea4ac4a20eaa57d5370faa/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/89c83cddc1bfd4238af9fd409d002e81/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3f11553fea89ca6ca977a6a4c7cae086/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/58743f6179a4eb4491a891753a1eae0f/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/019f4b517b4a4c55c900800a9e93e45f/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/5d23e386373ce7c1940ba3a36c2f0179/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e6b2e31d59b40532cac21854d98c478f/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/f6626dd11c91214e8ce9a0eaf22d78a1/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/982bd6b416d0eefb7d980997d2a71fdd/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/eabee89d52868cd82b7fc614fbd85957/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/20f60cc07594e9ba65cc0e1229d4ba06/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3408d6accfc1f6a7854d09daf9278fb3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a313f253abe64f99994f2fd95759aa63/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/c0c0869d0d8de5d8d1dcecabbb51ca0c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/ab8f061f6bb39e917d2913799b47094f/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a6e760d56862a6638141025a02a83cc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/d464685bb8869f455d68bd3859f12583/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/73c65119daa87588c8eb322b84d655f1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/b2bda30f715cbcd82c698cbfd715a7fc/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/62b23b42c900c67ef0a47e1e7d861c02/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/554aa4f6c16bc013012d16cce7b93ef6/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4127e940537288da9ea92022aa130e5f/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4127e940537288da9ea92022aa130e5f/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/1fa0ca5a709a6bf5893d5b2c3d07e77a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/1fa0ca5a709a6bf5893d5b2c3d07e77a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/f6626dd11c91214e8ce9a0eaf22d78a1/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/f6626dd11c91214e8ce9a0eaf22d78a1/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/20f60cc07594e9ba65cc0e1229d4ba06/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/20f60cc07594e9ba65cc0e1229d4ba06/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/f6626dd11c91214e8ce9a0eaf22d78a1/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.tahiru.flikrbrowser.MainActivity
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3a454bd9c7f2fc41c0131fb644c059c3/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3a454bd9c7f2fc41c0131fb644c059c3/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4127e940537288da9ea92022aa130e5f/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4127e940537288da9ea92022aa130e5f/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/d9288ad7e2a074fc83ef7e63a41f283e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/d9288ad7e2a074fc83ef7e63a41f283e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/1fa0ca5a709a6bf5893d5b2c3d07e77a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/1fa0ca5a709a6bf5893d5b2c3d07e77a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a0be31b30b7d55af0f8221419438c0dc/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a0be31b30b7d55af0f8221419438c0dc/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/6aea9f334d12502781156a5042f89fc7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/6aea9f334d12502781156a5042f89fc7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4d63b2739f1e9213f8a7f57de03e70d2/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/4d63b2739f1e9213f8a7f57de03e70d2/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/9faacad67f32d839393fe46a7960a223/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/9faacad67f32d839393fe46a7960a223/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e16a8e5675eadf650e1948a93cb0690d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e16a8e5675eadf650e1948a93cb0690d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/7822450f0d8d785d4ca1e1a2feb356e7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/7822450f0d8d785d4ca1e1a2feb356e7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/6b2290a66739d319ca60c409ab0a295e/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/6b2290a66739d319ca60c409ab0a295e/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/9094379f9a77ebc5855453371b2382d3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/9094379f9a77ebc5855453371b2382d3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/68011662f42cb20a5320e9f7ab173535/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/68011662f42cb20a5320e9f7ab173535/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e27202486b513c4133c1d4176b287900/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e27202486b513c4133c1d4176b287900/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/318cd0b0acb24d97c8ef87defbbb0d50/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/318cd0b0acb24d97c8ef87defbbb0d50/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/177cd6a7126f1a8a4f1d4d7f04b25933/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/177cd6a7126f1a8a4f1d4d7f04b25933/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/600cc545667a35a5f9294790262df461/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/600cc545667a35a5f9294790262df461/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/afe618922eea4ac4a20eaa57d5370faa/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/afe618922eea4ac4a20eaa57d5370faa/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/89c83cddc1bfd4238af9fd409d002e81/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/89c83cddc1bfd4238af9fd409d002e81/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3f11553fea89ca6ca977a6a4c7cae086/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3f11553fea89ca6ca977a6a4c7cae086/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/58743f6179a4eb4491a891753a1eae0f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/58743f6179a4eb4491a891753a1eae0f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/019f4b517b4a4c55c900800a9e93e45f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/019f4b517b4a4c55c900800a9e93e45f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/5d23e386373ce7c1940ba3a36c2f0179/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/5d23e386373ce7c1940ba3a36c2f0179/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e6b2e31d59b40532cac21854d98c478f/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/e6b2e31d59b40532cac21854d98c478f/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/f6626dd11c91214e8ce9a0eaf22d78a1/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/f6626dd11c91214e8ce9a0eaf22d78a1/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/982bd6b416d0eefb7d980997d2a71fdd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/982bd6b416d0eefb7d980997d2a71fdd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/eabee89d52868cd82b7fc614fbd85957/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/eabee89d52868cd82b7fc614fbd85957/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/20f60cc07594e9ba65cc0e1229d4ba06/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/20f60cc07594e9ba65cc0e1229d4ba06/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3408d6accfc1f6a7854d09daf9278fb3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/3408d6accfc1f6a7854d09daf9278fb3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a313f253abe64f99994f2fd95759aa63/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a313f253abe64f99994f2fd95759aa63/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/c0c0869d0d8de5d8d1dcecabbb51ca0c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/c0c0869d0d8de5d8d1dcecabbb51ca0c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/ab8f061f6bb39e917d2913799b47094f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/ab8f061f6bb39e917d2913799b47094f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a6e760d56862a6638141025a02a83cc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/a6e760d56862a6638141025a02a83cc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/d464685bb8869f455d68bd3859f12583/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/d464685bb8869f455d68bd3859f12583/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/73c65119daa87588c8eb322b84d655f1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/73c65119daa87588c8eb322b84d655f1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/b2bda30f715cbcd82c698cbfd715a7fc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/b2bda30f715cbcd82c698cbfd715a7fc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/62b23b42c900c67ef0a47e1e7d861c02/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/62b23b42c900c67ef0a47e1e7d861c02/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/554aa4f6c16bc013012d16cce7b93ef6/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tahirnas/.gradle/caches/transforms-2/files-2.1/554aa4f6c16bc013012d16cce7b93ef6/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tahirnas/AndroidStudioProjects/FlikrBrowser2/app/src/main/AndroidManifest.xml
